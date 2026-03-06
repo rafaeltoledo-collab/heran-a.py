@@ -8,7 +8,7 @@ class Animal():
     def comer(self):    
         print(f"O {self.__nome} está comendo!") 
         
-    def raça(self):
+    def raca(self):
        print(f"E sua raca é:{self.__raca}")
 
 class gato(Animal): 
